@@ -67,6 +67,20 @@ Specific Python Packages
 Overview of the Project Workflow
 ================================
 
+Three main parts to the project workflow  n9p
+
+1. Acquisition of spatially related Tweets
+
+2. Map Generation of Tweet "sentiment"
+
+3. Tweet sentiment encoded maps to Twitter
+
+----
+
+Diagram of Workflow
+===================
+
 .. image:: images/project_workflow.png
     :height: 600px
     :width: 800px
+
